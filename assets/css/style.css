@@ -1,0 +1,129 @@
+body {
+    background-color: #000000;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+/*FONT | TYPOGRAPHY*/
+
+h1 {
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 500; 
+}
+
+.desc-section p {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+footer p {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+h3 {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+/*HEADER*/
+
+.bg-header {
+    text-align: left;
+    width: 100%;
+}
+
+/*DESCRIPTION SECTION*/
+
+.center {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.desc-section {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: left;
+    white-space: nowrap;
+    padding: 50px 50px;
+}
+
+.iguana-text, .iguana-img, .icons, .images {
+    display: inline-block;
+}
+
+.iguana-text {
+    width: 50%;
+    vertical-align: middle;
+    white-space: normal;
+}
+
+.iguana-img {
+    width: 40%;
+    vertical-align: middle;
+    margin-left: 10%;
+}
+
+/*ICONS SECTION*/
+
+.icons-section {
+    background-color: #1E1A13;
+    color: #ffffff;
+    padding: 75px;
+}
+
+.icons {
+  width: 30%;
+}
+
+i {
+    margin-bottom: 16px;
+}
+
+/*IMAGES*/
+
+.all-images {
+    background-color: #000000;
+    text-align: center;
+    padding: 55px  
+}
+
+.images {
+    width: 316px;
+    height: 202px;
+    margin-left: 1%; 
+}
+
+/*FOOTER*/
+
+footer {
+    background-color: #1E1A13;
+    color: #ffffff;
+    padding: 25px;
+}
+
+/*NAV*/
+
+nav {
+    background-color: #000000;
+    padding: 5px;
+}
