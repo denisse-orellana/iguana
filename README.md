@@ -8,4 +8,4 @@ This projects presents a website with the description and main characteristics o
 
 ## Webpage
 
-The final project can be seen here: [Iguanas](https://denisseee.github.io/iguana_page/)
+The final project can be seen here: [Iguanas](https://denisseee.github.io/iguana/)
